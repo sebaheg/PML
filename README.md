@@ -1,11 +1,9 @@
-# mixture-density-network
+# Probabilistic Machine Learning for Regression
 
 ## Notebooks
-* nb-mdn-inverse-normal
-* nb-mdn-inverse-beta
-* Regression trying showing confidence intervals outside of where data points are available (Dense) both normal and beta
-* Predict mixed continuous discrete probability function in 1D [0,1]
-* Try generate data using mu and sigma and try to get it back using MDN
-* MDN with LSTM one-step ahead
-* MDN with LSTM multiple-step ahead (sequence-to-sequence).
-*
+* **nb1-mdn-inverse-normal.ipynb**
+* **nb1-mdn-regression-load.ipynb**
+* **nb2-mdn-inverse-beta.ipynb**
+* **nb3-ffnn-noise.ipynb**
+* **nb4-mdn-regression-uncertainty.ipynb**
+* **nb5-ffnn-dropout.ipynb**
